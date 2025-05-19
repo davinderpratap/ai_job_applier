@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environment
+.venv/
+
+# Environment files
+.env
+.env.*.local
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Data dumps / logs
+data/raw/
+*.log
+
+# Model files (if you ever download locally)
+models/
